@@ -135,7 +135,7 @@ Before deploying this project, ensure you have:
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/jadalaramani/3tier_architecture_terraform.git
+git clone https://github.com/karthikpatelmarkhale/AWS_Three_Tier_Project_Terraform.git
 
 cd 3tier_architecture_terraform
 ```
